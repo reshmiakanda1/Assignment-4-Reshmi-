@@ -32,11 +32,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/about-me/
         </loc>
     </url>
@@ -53,6 +48,26 @@
     <url>
         <loc>
             http://localhost:8000/products/luxury-wedding-package/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/birthday-celebration-package/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/baby-shower-package/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/intimate-dinner-setup/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/custom-event-design-package/
         </loc>
     </url>
     <url>
